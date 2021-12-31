@@ -8,4 +8,7 @@ include:
 
 theme: jekyll-theme-minimal
 
+github:
+  is_project_page: false
+
 title: Cheryl Jung
